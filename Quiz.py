@@ -32,7 +32,7 @@ if answer == "B":
     print("Correct!")
 else:
     print("Incorrect. The answer is B.")
- print()
+print()
 print("Question 4: What does a router do?")
 print("A. Forward packets between different networks")
 print("B. Translate domain names into IP addresses")
@@ -91,7 +91,7 @@ if answer == "B":
     print("Correct!")
 else:
     print("Incorrect. The answer is B.")
- print()
+print()
 print("Question 9: What does LAN stand for?")
 print("A. Local Area Network")
 print("B. Long Access Number")
